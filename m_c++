@@ -1,0 +1,13 @@
+#include<iostream>
+#include<string>
+
+class Entity
+{
+ private:int m_x,m_y;
+  mutable int a;
+ public:
+    const int printFunction() const
+    {
+        
+    }
+}；
